@@ -216,7 +216,7 @@ URBANFLOW includes a publicly deployed Streamlit dashboard for exploring histori
 - Visualize prediction errors.
 - Download selected historical prediction records as CSV.
 
-**Live Application:** PASTE_YOUR_FULL_STREAMLIT_URL_HERE
+**Live Application:** [URBANFLOW Live Dashboard](https://urbanflow-nyc-taxi-forecasting-xwbpuhxjwksgdms5pd7qhj.streamlit.app/)
 
 The dashboard reads a precomputed Parquet file containing predictions from the frozen LightGBM V2 model.
 
