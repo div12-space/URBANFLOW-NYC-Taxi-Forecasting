@@ -11,7 +11,7 @@ URBANFLOW forecasts New York City yellow taxi pickup demand at **15-minute inter
 
 **Project Links**
 
-- **Live Dashboard:** PASTE_YOUR_FULL_STREAMLIT_URL_HERE
+- **Live Dashboard:** (https://urbanflow-nyc-taxi-forecasting-xwbpuhxjwksgdms5pd7qhj.streamlit.app/)
 - **Research Paper:** [Read the research paper](reports/URBANFLOW_Research_Paper.pdf)
 - **Source Repository:** [GitHub](https://github.com/div12-space/URBANFLOW-NYC-Taxi-Forecasting)
 
